@@ -34,7 +34,7 @@ il - Hebrew<br>
 it - Italian<br>
 jp - Japanese<br>
 kr - Korean<br>
-nl- Netherlands<br>
+nl - Dutch<br>
 pl - Polish<br>
 pt - Portuguese<br>
 ru - Russian<br>
