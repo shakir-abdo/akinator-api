@@ -2,6 +2,9 @@
 [![npm version](https://badge.fury.io/js/akinator-api.svg)](https://badge.fury.io/js/akinator-api)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
+# WARN
+## This project is now depreciated and is not being updated due to changes on Akinator's end. If I have time I will rewrite the code.
+
 An api built to interact with Akinator based in NodeJS.
 
 This package has many features that you may use to interact with the Akinator api.
